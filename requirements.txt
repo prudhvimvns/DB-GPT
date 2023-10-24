@@ -17,7 +17,7 @@ langchain
 openai
 # SQLDatabase
 # tempfile
-SQLAlchemy
-psycopg2
+# SQLAlchemy
+# psycopg2
 
 # AgentType

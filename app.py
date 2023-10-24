@@ -37,6 +37,9 @@
 
 
 
+import pip
+
+pip.install('SQLDatabase')
 
 
 

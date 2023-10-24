@@ -2,7 +2,7 @@ langchain
 openai
 pymysql
 tabulate
-SQLDatabase
+# SQLDatabase
 OpenAI
 AgentType
 SQLDatabaseToolkit

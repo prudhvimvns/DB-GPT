@@ -110,7 +110,7 @@
 #                 st.write(f"Chatbot: {response}")  # Display the response string directly
 
 
-
+import psycopg2
 import streamlit as st
 from langchain.agents import create_sql_agent, create_csv_agent
 from langchain.agents.agent_toolkits import SQLDatabaseToolkit

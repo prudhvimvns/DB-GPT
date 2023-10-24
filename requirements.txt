@@ -16,6 +16,6 @@ streamlit
 langchain
 openai
 # SQLDatabase
-tempfile
+# tempfile
 
-AgentType
+# AgentType

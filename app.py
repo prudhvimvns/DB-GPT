@@ -117,7 +117,7 @@ from langchain.agents.agent_toolkits import SQLDatabaseToolkit
 from langchain.agents.agent_types import AgentType
 from langchain.utilities import SQLDatabase
 from langchain.llms import OpenAI
-from langchain_experimental.sql import SQLDatabaseChain
+# from langchain_experimental.sql import SQLDatabaseChain
 import os
 import tempfile
 

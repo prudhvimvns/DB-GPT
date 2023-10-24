@@ -9,3 +9,4 @@ SQLDatabaseToolkit
 create_csv_agent
 create_sql_agent
 streamlit
+python-sql

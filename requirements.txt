@@ -17,3 +17,5 @@ langchain
 openai
 # SQLDatabase
 tempfile
+
+AgentType

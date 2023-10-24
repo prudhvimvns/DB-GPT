@@ -19,5 +19,6 @@ openai
 # tempfile
 # SQLAlchemy
 psycopg2-binary
+tabulate
 
 # AgentType

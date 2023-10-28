@@ -197,7 +197,8 @@ import tempfile
 st.title("DB GPT")
 
 # Add a radio button for the user to select the input type
-input_type = st.radio('Choose your input type:', ('DB URI'))
+# input_type = st.radio('Choose your input type:', ('DB URI'))
+input_type = 'DB URI'
 
 if input_type == 'DB URI':
     database_uri = st.text_input("Enter your database URI:")

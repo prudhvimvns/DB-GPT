@@ -4,6 +4,6 @@ langchain
 openai
 psycopg2-binary
 tabulate
-create_csv_agent
-create_sql_agent
-SQLDatabaseToolkit
+# create_csv_agent
+# create_sql_agent
+# SQLDatabaseToolkit

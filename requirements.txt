@@ -1,24 +1,6 @@
-# langchain
-# openai
-# pymysql
-# tabulate
-# # SQLDatabase
-# OpenAI
-# AgentType
-# SQLDatabaseToolkit
-# create_csv_agent
-# create_sql_agent
-# streamlit
-# python-sql
-
 
 streamlit
 langchain
 openai
-# SQLDatabase
-# tempfile
-# SQLAlchemy
 psycopg2-binary
 tabulate
-
-# AgentType

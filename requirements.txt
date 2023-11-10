@@ -1,7 +1,7 @@
 
 streamlit
 langchain
-openai
+openai==0.28.1
 psycopg2-binary
 tabulate
 streamlit_chat

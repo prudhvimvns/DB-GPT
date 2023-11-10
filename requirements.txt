@@ -4,6 +4,7 @@ langchain
 openai
 psycopg2-binary
 tabulate
+streamlit_chat
 # create_csv_agent
 # create_sql_agent
 # SQLDatabaseToolkit

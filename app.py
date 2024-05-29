@@ -3,11 +3,12 @@ from streamlit_chat import message
 import psycopg2
 import tabulate
 from langchain.agents import create_sql_agent
-from langchain.agents.agent_toolkits import SQLDatabaseToolkit
+from langchain_community.agent_toolkits.sql.toolkit import SQLDatabaseToolkit
+from langchain_community.utilities import SQLDatabase
 from langchain.agents.agent_types import AgentType
-from langchain.utilities import SQLDatabase
-from langchain.llms import OpenAI
+from langchain_openai import OpenAI
 import os
+import pkgutil
 
 
 st.title("DB GPT")

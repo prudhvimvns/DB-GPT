@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_chat import message
 import psycopg2
 import tabulate
-from langchain.agents import create_sql_agent
+from langchain_community.agent_toolkits import create_sql_agent
 from langchain_community.agent_toolkits.sql.toolkit import SQLDatabaseToolkit
 from langchain_community.utilities import SQLDatabase
 from langchain.agents.agent_types import AgentType
